@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , Redux , Express , MongoDB , NodeJS , JavaScript , HTML , CSS**
 
-- 📫 How to reach me **pallaveeratnakar1714@gmail.com**
+- 📫 How to reach me **(https://pallaveekumari.github.io/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tmS2fWjsJVtalW0VvPbYTpclJZ-hhCiy/view](https://drive.google.com/file/d/1tmS2fWjsJVtalW0VvPbYTpclJZ-hhCiy/view)
 
