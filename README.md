@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallaveekumari&label=Profile%20views&color=0e75b6&style=flat" alt="pallaveekumari" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m a **MERN** developer.
 
 - 💬 Ask me about **React , Redux , Express , MongoDB , NodeJS , JavaScript , HTML , CSS**
 
