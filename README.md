@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **(https://pallaveekumari.github.io/)**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/10IEjilR08S92Lj8huzIv4diNX6qjJVpo/view?usp=sharing)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1IELsxbM4kIAdhnqVxdpAbF_00wmQbFlo/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
