@@ -10,9 +10,7 @@
 
 - 🌱 I’m a **MERN** developer.
 
-- 💬 Ask me about **React , Redux , Express , MongoDB , NodeJS , JavaScript , NextJS, HTML , CSS  , MySql , Go ,DataDog , Grafana , Prometheus**
-
-- 📫 How to reach me **(https://pallaveekumari.github.io/)**
+- 💬 Ask me about **React , Redux , Express , MongoDB , NodeJS , JavaScript , NextJS, HTML , CSS  , MySql , Go , DataDog , Grafana , Prometheus , Angular**
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1uqwUY2EqCgwhROlYAG649O-66hcmdsIr/view?usp=sharing)]
 
